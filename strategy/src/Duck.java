@@ -7,5 +7,9 @@ public abstract class Duck {
         System.out.println("i can swim");
     }
 
+    public void fly(){
+        System.out.println("i can fly");
+    }
+
     public abstract void display();
 }
